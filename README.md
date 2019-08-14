@@ -5,33 +5,33 @@ The proposed system is most useful and effective for the Biding purposes online,
 REQUIREMENT SPECIFICATION ::-
 1.    HARDWARE REQUIREMENTS ::-
 
-Processor			: 	Intel Core Duo 2.0 GHz or more
+    Processor			: 	Intel Core Duo 2.0 GHz or more
 
-RAM				: 	512 mega byte	 (MB) or more
+    RAM				: 	512 mega byte	 (MB) or more
 
-Hard disk		         	:	80 GB or more
+    Hard disk		         	:	80 GB or more
 
-Monitor			        :	15.6” CRT or LCD monitor
+    Monitor			        :	15.6” CRT or LCD monitor
 
-Keyboard			        :	Normal or Multimedia
+    Keyboard			        :	Normal or Multimedia
 
-Mouse				:	Compatible mouse
+    Mouse				:	Compatible mouse
 
 
 2.    SOFTWARE REQUIREMENTS ::- 
 
-Operating System 		:        Linux, Mac, Win XP/Vista/7 or newer versions
+    Operating System 		:        Linux, Mac, Win XP/Vista/7 or newer versions
 
-Database               		:        MySQL 
+    Database               		:        MySQL 
 
-Web Hosting Server	:        Amazon AWS
+    Web Hosting Server	:        Amazon AWS
 
-Servers                  		:        Apache Tomcat Server, Wampp / Xampp Server
+    Servers                  		:        Apache Tomcat Server, Wampp / Xampp Server
 
-IDE Required	      		:        Wampp / Xampp
+    IDE Required	      		:        Wampp / Xampp
 
 3.    LANGUAGES USED ::-
 
-Front End Language	:        HTML, CSS
+    Front End Language	:        HTML, CSS
 
-Back End Language		:        PHP, MySQL
+    Back End Language		:        PHP, MySQL
