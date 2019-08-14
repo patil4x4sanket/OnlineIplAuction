@@ -20,18 +20,18 @@ REQUIREMENT SPECIFICATION ::-
 
 2.    SOFTWARE REQUIREMENTS ::- 
 
-    Operating System    :        Linux, Mac, Win XP/Vista/7 or newer versions
+    Operating System    :   Linux, Mac, Win XP/Vista/7 or newer versions
 
-    Database            :        MySQL 
+    Database            :   MySQL 
 
-    Web Hosting Server  :        Amazon AWS
+    Web Hosting Server  :   Amazon AWS
 
-    Servers             :        Apache Tomcat Server, Wampp / Xampp Server
+    Servers             :   Apache Tomcat Server, Wampp / Xampp Server
 
-    IDE Required        :        Wampp / Xampp
+    IDE Required        :   Wampp / Xampp
 
 3.    LANGUAGES USED ::-
 
-    Front End Language  :        HTML, CSS
+    Front End Language  :   HTML, CSS
 
-    Back End Language   :        PHP, MySQL
+    Back End Language   :   PHP, MySQL
