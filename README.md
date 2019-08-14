@@ -11,7 +11,7 @@ REQUIREMENT SPECIFICATION ::-
 
     Hard disk           :	80 GB or more
 
-    Monitor             :	15.6” CRT or LCD monitor
+    Monitor             :	15.6” CRT or LCD or LED monitor
 
     Keyboard            :	Normal or Multimedia
 
