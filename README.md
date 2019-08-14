@@ -3,7 +3,6 @@ ABOUT PROJECT TOPIC & MOTIVATION ::-
 The IPL is the most-attended cricket league in the world and in 2014 ranked sixth by average attendance among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube.
 
 ABOUT PROJECT ::-
-
 The proposed system is most useful and effective for the Biding purposes online, as there is no other online biding mechanism for IPL Auction. The traditional way of auction is, making the team owners of all the teams to gather at one place along with the auctioneer(s) and then start the auction or biding. But by this project, it is not compulsory that all of these people have to gather at one place. Since it is an internet based project, so any team owner can bid on any player no matter what his/her location is. And that is the biggest advantage of this system. Along with the biding process; the team owner can also see all the updates in their respective team’s money balance whenever he owns the player. Also, there is an auto-refresh technique to the site; so that there is no need to refresh the page manually.
 
 SCOPE OF THE PROJECT ::-
